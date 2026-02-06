@@ -1,1 +1,1 @@
-# DDos-mitigation
+# DDos-attack
