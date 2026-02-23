@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Phishing Attack | CyberShield</title>
+<link href="../css/style.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div class="container py-5">
+<h1>Phishing Attack</h1>
+
+<h3>Definition</h3>
+<p>Fraudulent attempt to steal credentials by impersonating trusted entities.</p>
+
+<h3>How It Works</h3>
+<ol>
+<li>Attacker creates fake website/email.</li>
+<li>Victim clicks malicious link.</li>
+<li>Credentials entered.</li>
+<li>Attacker captures data.</li>
+</ol>
+
+<h3>Example</h3>
+<p>Fake PayPal login emails.</p>
+
+<h3>Impact</h3>
+<ul>
+<li>Account takeover</li>
+<li>Financial fraud</li>
+</ul>
+
+<h3>Prevention</h3>
+<ul>
+<li>Check URL carefully</li>
+<li>Enable MFA</li>
+<li>Verify sender identity</li>
+</ul>
+
+<h3>Tools (Educational)</h3>
+<p>SET Toolkit (for ethical lab testing).</p>
+
+</div>
+</body>
+</html>
