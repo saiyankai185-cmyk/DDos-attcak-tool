@@ -1,0 +1,43 @@
+:root {
+--bg-dark: #0f172a;
+--neon: #00ff9d;
+--text-light: #f1f5f9;
+}
+
+body {
+font-family: 'Poppins', sans-serif;
+background-color: var(--bg-dark);
+color: var(--text-light);
+scroll-behavior: smooth;
+}
+
+.text-neon {
+color: var(--neon);
+}
+
+.btn-neon {
+background: var(--neon);
+color: #000;
+border-radius: 30px;
+}
+
+.hero {
+height: 100vh;
+background: linear-gradient(135deg, #0f172a, #1e293b);
+}
+
+.cyber-card {
+background: #1e293b;
+border: 1px solid #00ff9d33;
+transition: 0.4s;
+}
+
+.cyber-card:hover {
+transform: translateY(-10px);
+box-shadow: 0 0 20px #00ff9d55;
+}
+
+[data-theme="light"] {
+--bg-dark: #ffffff;
+--text-light: #000;
+}
