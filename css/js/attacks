@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DDoS Attack – CyberShield</title>
+<link href="../css/style.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+<div class="container py-5">
+<h1>DDoS Attack</h1>
+
+<h3>Definition</h3>
+<p>A Distributed Denial of Service attack overwhelms a server using multiple systems.</p>
+
+<h3>How It Works</h3>
+<ol>
+<li>Attacker builds botnet.</li>
+<li>Botnet sends traffic flood.</li>
+<li>Server resources exhausted.</li>
+<li>Service becomes unavailable.</li>
+</ol>
+
+<h3>Real-World Example</h3>
+<p>GitHub DDoS attack in 2018 via memcached amplification.</p>
+
+<h3>Diagram</h3>
+<div class="border p-4 text-center">[Diagram Placeholder]</div>
+
+<h3>Impact</h3>
+<ul>
+<li>Website downtime</li>
+<li>Financial loss</li>
+<li>Reputation damage</li>
+</ul>
+
+<h3>Prevention</h3>
+<ul>
+<li>Use CDN</li>
+<li>Enable rate limiting</li>
+<li>Deploy firewall</li>
+</ul>
+
+<h3>Educational Tools Used</h3>
+<p>LOIC (educational research only)</p>
+
+<h3>Safety Tips</h3>
+<p>Never attempt attacks without authorization.</p>
+
+</div>
+</body>
+</html>
